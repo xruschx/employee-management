@@ -1,0 +1,16 @@
+.container {
+  &.search-form  {
+    width: 650px;
+  }
+}
+
+.search-form form {
+  margin-bottom: 15px;
+  background: #f7f7f7;
+  padding: 30px;
+  border: 1px solid lighten(black, 90%);
+}
+
+.search-form {
+  width: 650px;
+}

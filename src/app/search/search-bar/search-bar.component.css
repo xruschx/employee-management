@@ -1,0 +1,16 @@
+.container.search-form {
+  width: 650px;
+}
+
+.search-form form {
+  margin-bottom: 15px;
+  background: #f7f7f7;
+  padding: 30px;
+  border: 1px solid #e6e6e6;
+}
+
+.search-form {
+  width: 650px;
+}
+
+/*# sourceMappingURL=search-bar.component.css.map */
