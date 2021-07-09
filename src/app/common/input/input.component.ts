@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class InputComponent implements OnInit {
 
+  labelClass = "mb-3"
+
   constructor() { }
 
   ngOnInit(): void {
